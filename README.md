@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **More about JDA, Discord.JS and other libraries**
 
-- ⚡ Fun fact **i like pizza**
+- ⚡ Fun fact **a cool fun fact**
 
 
 <h3 align="left">Languages and Tools:</h3>
